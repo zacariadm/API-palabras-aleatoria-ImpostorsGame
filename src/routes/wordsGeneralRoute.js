@@ -3,21 +3,21 @@ const randomWord = require('../controllers/randomWord.js')
 const randomWordByLength = require('../controllers/randomWordByLength.js')
 const router = express.Router()
 
-//random word category general
-router.get('/palabra/general', async (req, res) =>{
+//random word category Todo
+router.get('/palabra/Todo', async (req, res) =>{
     try {
-        const word = await randomWord('general')
+        const word = await randomWord('Todo')
         res.status(200).json({"palabra": word})
     }catch (err) {
         res.status(500).json({"error": err})
     } 
 })
 
-//random word category general by length
-router.get('/palabra/general/:len', async (req, res) =>{
+//random word category Todo by length
+router.get('/palabra/Todo/:len', async (req, res) =>{
     try {
         console.log(req.params.len)
-        const word = await randomWordByLength('general',parseInt(req.params.len))
+        const word = await randomWordByLength('Todo',parseInt(req.params.len))
         res.status(200).json({"palabra": word})
     }catch (err) {
         res.status(500).json({"error": err.message})
