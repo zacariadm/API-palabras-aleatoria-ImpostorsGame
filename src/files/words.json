@@ -1,5 +1,5 @@
 {
-  "general": [
+  "Todo": [
     "CPU", "GPU", "Placa base", "Memoria RAM", "Disco duro HDD", "Disco duro SSD",
     "Fuente de alimentación", "Tarjeta de red", "Monitor", "Teclado", "Ratón",
     "Sistema operativo", "USB", "WiFi", "Bluetooth", "Terminal", 
@@ -25,7 +25,7 @@
     "Rolex", "Omega", "Casio", "Seiko", "Tag Heuer",
     "Patek Philippe", "Tissot", "Cartier", "Hublot", "Citizen"
   ],
-    "componentes_ordenador": [
+    "Componentes de ordenador": [
     "CPU", "GPU", "Placa base", "Memoria RAM", "Disco duro HDD", "Disco duro SSD",
     "Fuente de alimentación", "Tarjeta de red", "Tarjeta de sonido", "Disipador",
     "Ventilador", "Caja o torre", "Monitor", "Teclado", "Ratón", "Altavoces",
@@ -41,7 +41,7 @@
     "RAID", "Partición de disco", "Bootloader", "Actualizador de sistema",
     "Gestor de paquetes", "Terminal"
   ],
-  "objetos_comunes": [
+  "Objetos comunes": [
     "Mesa", "Silla", "Vaso", "Plato", "Cuchara", "Tenedor", "Cuchillo",
     "Teléfono", "Llaves", "Reloj", "Lámpara", "Cuaderno", "Bolígrafo",
     "Lápiz", "Goma de borrar", "Mochila", "Botella", "Toalla", "Espejo",
@@ -54,7 +54,7 @@
     "Lavadora", "Secadora", "Ventilador", "Radiador", "Calendario",
     "Agenda", "Tijeras"
   ],
-  "paises": [
+  "Paises": [
     "España", "Francia", "Alemania", "Italia", "Portugal", "Reino Unido",
     "Irlanda", "Países Bajos", "Bélgica", "Suiza", "Austria", "Polonia",
     "Suecia", "Noruega", "Finlandia", "Dinamarca", "Grecia", "Turquía",
@@ -67,7 +67,7 @@
     "Eslovaquia", "Croacia", "Serbia", "Bulgaria", "Indonesia",
     "Tailandia", "Vietnam", "Filipinas", "Malasia", "Singapur"
   ],
-  "tipos_edificio": [
+  "Tipos de edificio": [
     "Casa", "Apartamento", "Chalet", "Colegio", "Instituto",
     "Universidad", "Hospital", "Clínica", "Comisaría", "Cuartel",
     "Ayuntamiento", "Juzgado", "Biblioteca", "Museo", "Teatro",
@@ -78,7 +78,7 @@
     "Aeropuerto", "Puerto", "Garaje", "Parking", "Mercado",
     "Laboratorio", "Centro cultural"
   ],
-  "prendas_ropa": [
+  "Prendas de ropa": [
     "Camiseta", "Camisa", "Blusa", "Pantalón", "Vaqueros",
     "Falda", "Vestido", "Chaqueta", "Abrigo", "Sudadera",
     "Jersey", "Traje", "Corbata", "Pijama", "Bata",
@@ -89,14 +89,14 @@
     "Zapatillas", "Botas", "Tacones", "Alpargatas",
     "Chanclas", "Polo", "Top", "Chándal"
   ],
-  "comunidades_autonomas_espana": [
+  "Comunidades autonomas de VIVA ESPAÑA": [
     "Andalucía", "Aragón", "Asturias", "Islas Baleares",
     "Canarias", "Cantabria", "Castilla-La Mancha",
     "Castilla y León", "Cataluña", "Comunidad Valenciana",
     "Extremadura", "Galicia", "La Rioja", "Comunidad de Madrid",
     "Región de Murcia", "Navarra", "País Vasco"
   ],
-    "animales": [
+    "Animales": [
       "perro",
       "gato",
       "pájaro",
@@ -165,7 +165,7 @@
       "hormiga",
       "saltamontes"
     ],
-    "deportes": [
+    "Deportes": [
       "fútbol 11",
       "fútbol 7",
       "tenis",
@@ -205,7 +205,7 @@
       "golf",
       "pádel"
     ],
-    "juegos": [
+    "Juegos": [
     "The Legend of Zelda: Breath of the Wild",
     "Super Mario Odyssey",
     "Minecraft",
@@ -267,7 +267,7 @@
     "Mortal Kombat 1",
     "Dead by Daylight"
   ],
-  "marcas_coche": [
+  "Marcas de coche": [
     "Toyota",
     "Volkswagen",
     "Ford",
@@ -319,7 +319,7 @@
     "Koenigsegg",
     "Cadillac"
   ],
-  "marcas_relojes": [
+  "Marcas de relojes": [
     "Rolex",
     "Omega",
     "Patek Philippe",
@@ -351,6 +351,6 @@
     "Bell & Ross",
     "Girard-Perregaux"
   ]
-  }
+}
   
   
